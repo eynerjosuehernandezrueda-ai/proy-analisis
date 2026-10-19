@@ -1,1 +1,1 @@
-# Proyecto Integrador - Sistema COMASA
+# Proyecto Integrador 
